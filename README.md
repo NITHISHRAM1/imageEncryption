@@ -9,8 +9,9 @@
   * XOR operation performed between each and every value of byte array and key due to which all data of Image get change and due to which we are unable to open our Image.
   * Now, whenever we apply a Decryption operation with the same key-value byte array value get the change to its original value and able to see our original Image.
 ### Decryption:
-     * In the case of Image Decryption as well we convert out encrypted Image into its original form. Here we will use XOR operation to perform decryption as well. 
-     * As we observe in the above example of XOR that how we get our original value of byte array by performing XOR operation on output and key value. Same logic we will use here.
+  * In the case of Image Decryption as well we convert out encrypted Image into its original form. Here we will use XOR operation to perform decryption as well.
+     
+  * As we observe in the above example of XOR that how we get our original value of byte array by performing XOR operation on output and key value. Same logic we will use here.
  
 # Project Demo
  
